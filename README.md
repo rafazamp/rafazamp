@@ -25,9 +25,7 @@
 ### Databases
 
 <div style="display: inline_block">
-  <img align="center" alt="mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain-wordmark.svg">
-  <img align="center" alt="mongodb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain-wordmark.svg">
-  <img align="center" alt="redis" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-plain-wordmark.svg">
+  <img align="center" alt="postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain-wordmark.svg">
 </div>
 
 ### Servers
@@ -39,6 +37,11 @@
   <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-plain.svg">
 </div>
 
+### Monitoring
+
+<div style="display: inline_block">
+  <img align="center" alt="grafana" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original-wordmark.svg">
+</div>
 <!--
 **rafazamp/rafazamp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
